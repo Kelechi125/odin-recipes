@@ -14,3 +14,19 @@ a:hover {
 a:visited {
     color: mediumvioletred;
 }
+
+img {
+    height: auto;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, ul, li {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
