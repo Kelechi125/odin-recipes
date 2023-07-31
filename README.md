@@ -1,1 +1,1 @@
-# odin-recipes
+This project is for The Odin Project that provides recipes for different meals, such as Grilled Cheese, Yogurt Parfait, and Peanut Butter and Banana Oatmeal. In this project, I have demonstrated skills in building static websites with HTML, which include filling out the HTML Boilerplate. I also demonstrate the ability to use absolute and relative paths when creating links and including images. Building this project has provided me much clarity in adding multiple pages to one website.
