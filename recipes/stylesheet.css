@@ -1,3 +1,7 @@
 ol, ul {
     border: 1px black solid;
 }
+
+li {
+    margin: 5px;
+}
