@@ -1,3 +1,16 @@
 body {
     background-color: rgb(255, 228, 196);
 }
+
+a {
+    color: mediumblue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+a:hover {
+    text-decoration: none;
+}
+
+a:visited {
+    color: mediumvioletred;
+}
